@@ -1,0 +1,352 @@
+* {
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.nav-bar {
+    margin-left: 290px;
+}
+
+.container {
+    width: 100%;
+    background-image: url(./images/uni3.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+}
+
+.div {
+    font-size: x-large;
+}
+
+.content {
+    color: white;
+    padding-top: 250px;
+    text-align: center;
+}
+
+.content a {
+    text-decoration: none;
+    padding: 5px;
+    color: black;
+    background-color: orange;
+    margin: 15px;
+    border-radius: 40px;
+}
+
+.container1 {
+    height: 490px;
+    width: 100%;
+
+}
+
+.main {
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+}
+
+.pic {
+    border-radius: 30px;
+    width: 380px;
+    height: 220px;
+
+}
+
+.heading {
+    padding: 20px;
+    padding-top: 60px;
+    width: 60%;
+    /* margin: 0px 20px; */
+}
+
+.heading1 {
+    margin-top: 80px;
+    line-height: 1.9;
+    padding-top: 15px;
+    padding-left: 70px;
+    width: 33%;
+}
+
+.container2 {
+    height: 230px;
+    width: 100%;
+    background-color: orange;
+}
+
+.pics {
+    padding-right: 50px;
+    height: 200;
+    margin: 0px 5px;
+    margin-left: 330px;
+    display: flex;
+}
+
+.img1 {
+    padding: 50px 0px;
+    margin: 0px 5px;
+}
+
+.img2 {
+    padding: 130px 0px;
+    margin: 0px 5px;
+}
+
+.img3 {
+    padding: 50px 0px;
+    margin: 0px 5px;
+}
+
+.img4 {
+    padding: 130px 0px;
+    margin: 0px 5px;
+}
+
+.container3 {
+    height: 550px;
+    width: 100%;
+    background-color: rgb(3, 3, 66);
+}
+
+.boxes {
+    padding-top: 200px;
+    text-align: center;
+    margin-left: 350px;
+    width: 50%;
+    display: flex;
+}
+
+.box1 {
+    border-radius: 20px;
+    height: 230px;
+    margin: 0px 5px;
+    background-color: white;
+    padding-top: 80px;
+    border: 1px solid red;
+}
+
+.box2 {
+    border-radius: 20px;
+    height: 230px;
+    margin: 0px 5px;
+    background-color: white;
+    padding-top: 80px;
+    border: 1px solid red;
+}
+
+.box3 {
+    border-radius: 20px;
+    height: 230px;
+    margin: 0px 5px;
+    background-color: white;
+    padding-top: 80px;
+    border: 1px solid red;
+}
+
+.box4 {
+    border-radius: 20px;
+    height: 230px;
+    margin: 0px 5px;
+    background-color: white;
+    padding-top: 80px;
+    border: 1px solid red;
+}
+
+.container4 {
+    width: 100%;
+    height: 620px;
+}
+
+.content {
+    padding-top: 50px;
+    text-align: center;
+
+}
+
+.main-div {
+    margin: 0px auto;
+    width: 57%;
+    display: flex;
+}
+
+.tickmain {
+    display: flex;
+}
+
+.tick {
+    line-height: 110px;
+}
+
+.picss {
+    margin: 0 20px;
+}
+
+.para {
+    padding-left: 60px;
+}
+
+.container5 {
+    background-color: rgb(7, 7, 65);
+    height: 250px;
+    width: 100%;
+}
+
+.img {
+    width: 52%;
+    padding-top: 1px;
+    margin: 0 auto;
+}
+
+.container6 {
+    height: 620px;
+    width: 100%;
+}
+
+.boxe {
+    padding-top: 120px;
+    text-align: center;
+    font-size: large;
+    width: 49%;
+    margin: 0 auto;
+    display: flex;
+}
+
+.bax1 {
+    background-color: white;
+    padding-top: 20px;
+    border-radius: 10px;
+    margin: 0 15px;
+    width: 190px;
+    height: 180px;
+    border: 1px solid;
+}
+
+.bax2 {
+    background-color: white;
+    padding-top: 20px;
+    border-radius: 10px;
+    width: 190px;
+    height: 180px;
+    border: 1px solid;
+}
+
+.bax3 {
+    background-color: white;
+    padding-top: 20px;
+    border-radius: 10px;
+    margin: 0 15px;
+    width: 190px;
+    height: 180px;
+    border: 1px solid;
+}
+
+.bax1 h5 {
+    padding-top: 20px;
+}
+
+.bax2 h5 {
+    padding-top: 20px;
+}
+
+.bax3 h5 {
+    padding-top: 20px;
+}
+
+.container444 {
+    width: 100%;
+    height: 650px;
+}
+
+.mainpic {
+    text-align: center;
+}
+
+.fl {
+    position: absolute;
+    padding-left: 450px;
+    padding-bottom: 200px;
+    display: flex;
+
+}
+
+.dive {
+    background-color: orange;
+    position: relative;
+    border: 1px solid;
+    width: 200px;
+    height: 280px;
+}
+
+.button {
+    padding: 5px 10px;
+    background-color: black;
+    color: white;
+}
+
+.image23 {
+    padding-left: 50px;
+}
+
+.cont {
+    width: 100%;
+    height: 500px;
+    padding-top: 80px;
+    padding-left: 150px;
+
+}
+
+.sad {
+    padding-left: 220px;
+}
+
+.cards {
+    display: flex;
+    padding: 5px 10px;
+    width: 600px;
+    margin-left: 200px;
+}
+
+.card1 {
+    background-color: gainsboro;
+    border: 1px solid;
+    width: 500px;
+    height: 200px;
+    margin: 0px 10px;
+}
+
+.card2 {
+    background-color: gainsboro;
+    border: 1px solid;
+    width: 500px;
+    height: 200px;
+    margin: 0px 10px;
+}
+
+.card3 {
+    background-color: gainsboro;
+    border: 1px solid;
+    width: 500px;
+    height: 200px;
+    margin: 0px 10px;
+}
+
+.ahhre {
+    width: 100%;
+    height: 400px;
+}
+
+.meo {
+    display: flex;
+    justify-content: center;
+}
+
+.fgh {
+    padding-top: 100px;
+}
+
+.forms {
+    padding-top: 120px;
+    padding-left: 40px;
+}
